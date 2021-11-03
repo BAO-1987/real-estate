@@ -11,8 +11,9 @@
   --color-alto: #d8d8d8;
   --color-red: #cf1515;
   --color-green: #269c47;
+  --color-serenade: #fff8eb;
+
   --color-linear: linear-gradient(278.62deg, #fce4bb 1.35%, #fef7ea 113.81%);
-  
 
   // https://chir.ag/projects/name-that-color/#EAEAEA з відтінками проблеми тому використовую цей сайт
 
@@ -21,25 +22,14 @@
   --border-r-15px: 15px;
   --border-r-20px: 20px;
   --border-r-big: 20px 20px 0px 0px;
+
+  // FONTS  не розумію чого не  можна використовувати їх
+
+  --font-family: "Montserrat", sans-serif;
+  --body-font: 400 16px / 160% var(--font-family);
+  --small-body-font: 400 14px / 170% var(--font-family);
+  --font-h1: 600 42px/ 120% var(--font-family);
+  --font-h2: 600 32px/ 120% var(--font-family);
+  --font-h3: 600 18px/ 120% var(--font-family);
+  --font-subtitle: 600 16px/ 140% var(--font-family);
 }
-
-
-
-// FONTS  не розумію чого не  можна використовувати їх
-
-// --font-family: "Montserrat",
-// sans-serif;
-// --body-font: 400 16px / 150% var(--font-family);
-// --small-body-font: 400 14px / 170% var(--font-family);
- //--font-h1: 600 52px/ 120% var(--font-family);
-// --font-h2: 600 42px/ 120% var(--font-family);
-// --font-h3: 600 18px/ 120% var(--font-family);
-// --font-subtitle: 600 16px/ 140% var(--font-family);
-
-$font-h1: 52px;
-$font-h2: 42px;
-$font-h3: 32px;
-$font-h3: 18px;
-$font-subtitle: 16px;
-$font-body: 14px;
-
